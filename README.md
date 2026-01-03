@@ -1,5 +1,4 @@
-<h1 align="center">Code Odyssey 🧿</h1>
-
+<h1 align="center">Learnings 🧿</h1>
 <p align="center">A collection of my hands on learnings in CS 👍</p>
 
 <h2>Javascript <img width="30" height="30" alt="javascript" src="https://github.com/user-attachments/assets/f31c8ee2-16c6-4004-a84f-ed7c263defd8" /></h2>
