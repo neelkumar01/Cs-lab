@@ -1,4 +1,4 @@
-<h1 align="center">Learnings 🧿</h1>
+<h1 align="center">Learnings</h1>
 <p align="center">A collection of my hands on learnings in CS 👍</p>
 
 <h2>Javascript &nbsp;&nbsp;<img width="30" height="30" alt="javascript" src="https://github.com/user-attachments/assets/b8f97949-df29-4602-b578-583d026b23b5" /></h2>
